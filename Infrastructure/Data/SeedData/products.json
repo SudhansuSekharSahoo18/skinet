@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Angular Speedster",
+        "Description": "some description",
+        "Price": 200,
+        "PictureUrl": "image/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Green Angular Speedster",
+        "Description": "some description",
+        "Price": 150,
+        "PictureUrl": "image/products/sb-ang2.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular Speedster3",
+        "Description": "some description",
+        "Price": 200,
+        "PictureUrl": "image/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular Speedster4",
+        "Description": "some description",
+        "Price": 200,
+        "PictureUrl": "image/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular Speedster5",
+        "Description": "some description",
+        "Price": 200,
+        "PictureUrl": "image/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    }
+]
